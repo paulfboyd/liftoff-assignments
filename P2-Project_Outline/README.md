@@ -7,12 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project is a basic blog app, designed to illustrate the basics of what I've learned about .NET and MySQL from LC101. 
+My app will allow users to signup for individual accounts so that they can post blog entries that only they and the administrator can view and delete. 
+Only the user associated with a given account may make changes to that user's blog entries.
+
 ### Features
-Include Features here
+* User login: Users can create and log into the app. Users will each have a profile page with their blog entries displayed.
+
+* Create Post: Users can add new posts when logged in.
+
+* Edit Post: Users can edit their own existing posts.
+
+* Delete Post: Both the user and administrator will have the ability to remove posts.
+
 ### Technologies
-Include Technologies here
+* C# / ASP.NET Core Framework
+* MySQL
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+While no new technologies are necessary for this project at this time, I am open to adding additional functionality later as deemed appropriate; 
+this may require learning how to integrate with APIs or using JavaScript to add flair to the front-end.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/U73i4Qtm/capstone-project
